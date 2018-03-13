@@ -7,3 +7,12 @@ C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\ToolsInventory\ToolsInventory\obj
 C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\ToolsInventory\ToolsInventory\obj\Debug\ToolsInventory.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\ToolsInventory\ToolsInventory\obj\Debug\ToolsInventory.dll
 C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\ToolsInventory\ToolsInventory\obj\Debug\ToolsInventory.pdb
+C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\Lab5\ToolsInventory\bin\ToolsInventory.dll.config
+C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\Lab5\ToolsInventory\bin\ToolsInventory.dll
+C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\Lab5\ToolsInventory\bin\ToolsInventory.pdb
+C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\Lab5\ToolsInventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\Lab5\ToolsInventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\Lab5\ToolsInventory\obj\Debug\ToolsInventory.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\Lab5\ToolsInventory\obj\Debug\ToolsInventory.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\Lab5\ToolsInventory\obj\Debug\ToolsInventory.dll
+C:\Users\Ian\Documents\CMU\Spring_2018\CPS_420\Lab5\ToolsInventory\obj\Debug\ToolsInventory.pdb
